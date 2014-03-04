@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="down">arrow-small-down.png</file>
+        <file alias="left">arrow-small-left.png</file>
+        <file alias="right">arrow-small-right.png</file>
+        <file alias="up">arrow-small-up.png</file>
+        <file alias="empty">empty.png</file>
+    </qresource>
+</RCC>
